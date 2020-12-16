@@ -13,4 +13,4 @@ Solving real-world problems with NISQ-era quantum computing hardware.
   * Designed for D-Wave quantum annealers, run and tested on D-Wave Advantage System version 1.1 on AWS Braket. 
   * scalable: choose from a list of datasets and input any value for weight, that's all you need to do
   * partly based on https://github.com/dwave-examples/knapsack
-  * https://github.com/brianlechthaler/QuantumSolutions/blob/origin/GraphPartitioning.ipynb
+  * https://github.com/brianlechthaler/QuantumSolutions/blob/origin/KnapsackProblem.ipynb
