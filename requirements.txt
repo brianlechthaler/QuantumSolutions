@@ -1,0 +1,16 @@
+# Qiskit Specific
+qiskit
+
+# D-Wave Specific
+dwave-ocean-sdk
+dwave-qiskit-plugin
+
+# Braket Specific
+amazon-braket-sdk
+boto3
+
+# Extra
+numpy
+datetime
+pandas
+matplotlib
