@@ -1,5 +1,8 @@
 # QuantumSolutions
-Solving real-world problems with NISQ-era quantum computing hardware.
+Solving real-world problems with NISQ-era quantum computing hardware. 
+
+## Important Note for AWS Braket
+Remember to run these notebooks from an environment that has access to your AWS account's Braket resources. If you have not already, sign into your AWS console with the proper permissions and complete the Braket onboarding.
 
 ## Contents
 * Traveling Salesperson:
