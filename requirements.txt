@@ -1,3 +1,7 @@
+# required to open .ipynb files
+jupyter
+jupyterlab
+
 # Qiskit Specific
 qiskit
 
