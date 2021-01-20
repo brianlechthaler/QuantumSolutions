@@ -25,3 +25,8 @@ Remember to run these notebooks from an environment that has access to your AWS 
   * scalable: choose from a list of datasets and input any value for weight, that's all you need to do
   * partly based on https://github.com/dwave-examples/knapsack
   * https://github.com/brianlechthaler/QuantumSolutions/blob/origin/KnapsackProblem.ipynb
+* Binary Classification with QBoost
+  * Can be run on either D-Wave Leap or AWS Braket interchangably by only changing 1 string in 1 line, so that as many people as possible can try it out.
+  * Demonstrates how to use D-Wave's Ocean SDK to build a Binary Classifier. This is a great example of Machine Learning for Quantum Annealing devices such as D-Wave's systems.
+  * Based on https://github.com/dwave-examples/qboost
+  * https://github.com/brianlechthaler/QuantumSolutions/blob/origin/QBoostBinaryClassification.ipynb
